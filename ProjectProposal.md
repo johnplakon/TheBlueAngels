@@ -9,3 +9,6 @@ The purpose of this project is to display flight delay data in Plotly and Tablea
 Hypothesis: Flight delays are less prevalent with larger and more profitable airlines.
 
 Our goal is to clearly demonstrate the value of machine learning for analyizing and predicting air traffic delay in daily operation.
+
+Data:
+http://milantomin.com/wp-content/uploads/case-studie-files/US-Airlines-delayfile-2018.csv
